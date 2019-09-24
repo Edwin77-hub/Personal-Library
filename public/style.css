@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  font-family: "Benton Sans",-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",helvetica,arial,sans-serif;
+  background-color:blue;
+}
+
+
+#sampleui {
+  max-width: 450px;
+  margin-left: 5%;
+  height: 100%;
+}
+
+#sampleposting {
+  max-width: 450px;
+  text-align: center;
+  margin-left: 5%;
+}
+
+#userstories {
+  margin-left: 5%;
+}
+
+form {
+  padding: 5px;
+}
